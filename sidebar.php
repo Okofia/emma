@@ -312,31 +312,7 @@
                         </ul>
                     </li>
 					
-                    
-                    <li class="menu-dropdown">
-                        <a href="#">
-                            <i class="menu-icon ti-location-pin"></i>
-                            <span>Maps</span>
-                            <span class="fa arrow"></span>
-                        </a>
-                        <ul class="sub-menu">
-                            <li>
-                                <a href="google_maps.html">
-                                    <i class="fa fa-fw ti-world"></i> Google Maps
-                                </a>
-                            </li>
-                            <li>
-                                <a href="vector_maps.html">
-                                    <i class="fa fa-fw ti-map"></i> Vector Maps
-                                </a>
-                            </li>
-                            <li>
-                                <a href="advanced_maps.html">
-                                    <i class="fa fa-fw ti-map-alt"></i> Advanced Maps
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
+
 
                    
                 </ul>
