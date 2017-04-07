@@ -338,40 +338,7 @@
                         </ul>
                     </li>
                    
-                    <li class="menu-dropdown">
-                        <a href="#">
-                            <i class="menu-icon ti-layout-grid3"></i>
-                            <span>Layouts</span>
-                            <span class="fa arrow"></span>
-                        </a>
-                        <ul class="sub-menu">
-                            <li>
-                                <a href="menubarfold.html">
-                                    <i class="fa fa-fw ti-layout-menu-v"></i> Menubar Fold
-                                </a>
-                            </li>
-                            <li>
-                                <a href="boxed_movable_header.html">
-                                    <i class="fa fa-fw ti-layout-grid2"></i> Boxed &amp; Movable Header
-                                </a>
-                            </li>
-                            <li>
-                                <a href="layout_movable_header.html">
-                                    <i class="fa fa-fw ti-view-list-alt"></i> Movable Header
-                                </a>
-                            </li>
-                            <li>
-                                <a href="layout_boxed_fixed_header.html">
-                                    <i class="fa fa-fw ti-view-list"></i> Boxed &amp; Fixed Header
-                                </a>
-                            </li>
-                            <li>
-                                <a href="layout_fixed.html">
-                                    <i class="fa fa-fw ti-layout-column2"></i> Fixed Header &amp; Menu
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
+
                    
                 </ul>
                 <!-- / .navigation --> </div>
