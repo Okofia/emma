@@ -36,9 +36,9 @@
                     <div class="col-xs-12">
                         <form action="index.php" id="authentication" method="post" class="login_validator">
                             <div class="form-group">
-                                <label for="email" class="sr-only"> E-mail</label>
+                                <label for="email" class="sr-only"> Username</label>
                                 <input type="text" class="form-control  form-control-lg" id="username" name="username"
-                                       placeholder="E-mail">
+                                       placeholder="Username">
                             </div>
                             <div class="form-group">
                                 <label for="password" class="sr-only">Password</label>
