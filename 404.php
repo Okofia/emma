@@ -25,11 +25,13 @@
         <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
             <div class="text-center">
                 <div>
+
                     <div class="error_img">
                         <img src="img/pages/404.gif" alt="404 error image">
+					<label style="color:red;font-size:15px"><strong><?php echo $output ?></strong></label>
                     </div>
                     <hr class="seperator">
-                    <a href="index.html" class="btn btn-primary link-home">Go Home</a>
+                    <a href="index.php" class="btn btn-primary link-home">Go Home</a>
                 </div>
             </div>
         </div>
